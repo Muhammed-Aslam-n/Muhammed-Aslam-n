@@ -27,10 +27,10 @@
 <div align="center">
 <h3> How to reach me 📫</h3>
 
- [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://akshaynandhu.github.io/portfollio/)
+ [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://muhammed-aslam-n.github.io/Personal_Website/)
  
- [![phone](https://img.shields.io/badge/-+8660196861-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:8848561898)
- [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-k-70a9b8222/)
- [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:akshaynandhu90@gmail.com)
+ [![phone](https://img.shields.io/badge/-+9645541338-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:9645541338)
+ [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-aslam-n/)
+ [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:muhammedaslamn210@gmail.com)
  
 </div>  
